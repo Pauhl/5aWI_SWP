@@ -1,7 +1,7 @@
 public class remotecontrol  {
 
-    baterry baterry1 = new baterry(10);
-    baterry baterry2 = new baterry(25);
+    baterry baterry1 = new baterry(100);
+    baterry baterry2 = new baterry(100);
 
 
     public void poweron() {
@@ -23,5 +23,15 @@ public class remotecontrol  {
         System.out.println("Batteriestand: "+((baterry1.power+baterry2.power)/2));
 
     }
+
+    public void newbattery() {
+        baterry1.power=100;
+        baterry2.power=100;
+
+        System.out.println("Batterie ausgewechselt");
+
+    }
+
+
 
 }

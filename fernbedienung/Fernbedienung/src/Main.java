@@ -7,8 +7,12 @@ public class Main {
         fernbedienung.powerinfo();
         fernbedienung.poweron();
         fernbedienung.powerinfo();
-        fernbedienung.poweron();
+
+        for(int i=0;i<20;i++){
+            fernbedienung.poweron();
+        }
         fernbedienung.powerinfo();
-        fernbedienung.poweron();
+        fernbedienung.newbattery();
+        fernbedienung.powerinfo();
     }
 }
