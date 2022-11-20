@@ -30,7 +30,7 @@ public class car {
 
     }
 
-    public void realmileage() {
+    public void realconsumption() {
         if(this.mileage>=500) {
             System.out.println("Verbrauch: "+ this.fuelconsumption*1.098);
 

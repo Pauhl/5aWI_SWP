@@ -15,9 +15,14 @@ public class car {
     public mirror mirror1;
     public mirror mirror2;
 
+    public String color;
 
-    public car(){
-        this.tire=new ArrayList<com.company.tire>();
+
+    public car(String brand, engine engine, String color){
+        this.brand=brand;
+        this.engine=engine;
+        this.color=color;
+
     }
 
     public void confCar(String brand, String license, int fuel, int fuelconsumption, int mileage, engine engine) {

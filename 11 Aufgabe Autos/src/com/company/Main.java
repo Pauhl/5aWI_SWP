@@ -9,7 +9,7 @@ public class Main {
 
         auto1.buycar();
 
-        auto1.realmileage();
+        auto1.realconsumption();
 
 
     }
