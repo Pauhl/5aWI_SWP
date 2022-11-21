@@ -12,4 +12,10 @@ public class tire {
         this.type=type;
 
     }
+
+    public tire(String brand, int radius, TYPE type) {
+        this.brand = brand;
+        this.radius = radius;
+        this.type = type;
+    }
 }

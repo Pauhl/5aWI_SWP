@@ -4,12 +4,13 @@ public class Main {
 
     public static void main(String[] args) {
 
-        car auto1 = new car();
-        car auto2 = new car();
         engine e1 = new engine();
         engine e2 = new engine();
-        tire r1 = new tire();
-        r1.confTire("Pirelli", 20, tire.TYPE.SOMMER);
+        car auto1 = new car("VW", e1, "blue");
+        car auto2 = new car("Seat", e2, "green");
+
+        tire r1 = new tire("Pirelli", 20, tire.TYPE.SOMMER);
+
 
         tire r2 = r1;
         tire r3 = r1;
@@ -19,11 +20,8 @@ public class Main {
         e1.confEngine(105, engine.TYPE.DIESEL);
         e2.confEngine(180, engine.TYPE.GAS);
 
-        auto1.brand = "Seat";
-        auto1.license = "FK274MS";
-        auto1.fuel = 70;
-        auto1.mileage = 182698;
-        auto1.fuelconsumption = 5;
+
+
 
         auto1.confCar("SEAT", "BZ38GHK", 35, 6, 155485,e1);
         auto2.confCar("Mercedes", "DO23TUB", 3, 8, 93591,e2);
@@ -32,6 +30,7 @@ public class Main {
         auto1.addTire(r2);
         auto1.addTire(r3);
         auto1.addTire(r4);
+
 
 
         mirror m1 = new mirror("blue", true);
@@ -47,6 +46,12 @@ public class Main {
 
         auto1.getTireData();
 
+        Truck t1 = new Truck(e2, "Mercedes", "green", "Trailer1");
+        System.out.println(t1.getTrailer());
+
+        t1.iamdriving();
+        auto1.iamdriving();
+        t1.breaking();
 
     }
 }

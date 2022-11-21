@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="99e8f72f-c15a-404e-88de-0b601a5697aa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../11 Aufgabe Lampe/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11 Aufgabe Lampe/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11 Aufgabe Lampe/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11 Aufgabe Lampe/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11 Aufgabe Lampe/11 Aufgabe Lampe.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/auto/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/auto/com/company/car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/auto/com/company/engine$TYPE.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/auto/com/company/engine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/auto/com/company/mirror.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/auto/com/company/tire$TYPE.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/auto/com/company/tire.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Truck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/engine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/mirror.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/tire.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HEEjJUwq49Q1Kyyp9Aj48o0B3c" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/hartm/Documents/GitHub/5aWI_SWP/11 Aufgabe Lampe&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99e8f72f-c15a-404e-88de-0b601a5697aa" name="Changes" comment="" />
+      <created>1667841975137</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667841975137</updated>
+      <workItem from="1667841976378" duration="3117000" />
+      <workItem from="1668950979294" duration="17000" />
+      <workItem from="1668971006429" duration="1764000" />
+      <workItem from="1669036229485" duration="2430000" />
+      <workItem from="1669058195422" duration="268000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

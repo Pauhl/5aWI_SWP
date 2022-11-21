@@ -22,7 +22,12 @@ public class car {
         this.brand=brand;
         this.engine=engine;
         this.color=color;
+        this.tire=new ArrayList<>();
 
+    }
+
+    public List<tire> getTire() {
+        return tire;
     }
 
     public void confCar(String brand, String license, int fuel, int fuelconsumption, int mileage, engine engine) {
@@ -36,6 +41,8 @@ public class car {
 
 
     }
+
+
 
     public void addTire(tire tire) {
         this.tire.add(tire);
@@ -80,12 +87,20 @@ public class car {
 
     }
 
+    public void iamdriving() {
+        System.out.println("I am driving!");
+    }
+
 
     public void tank(int gas, int price) {
         this.fuel=gas+this.fuel;
 
         System.out.println("Neuer Tankstand:"+this.fuel+"\nKosten:"+(gas*price)+"\n");
 
+    }
+
+    public void breaking() {
+        System.out.println("I am breaking1");
     }
 
 
